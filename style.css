@@ -1,0 +1,20 @@
+.p{
+    color:red;
+    background-color: blue;
+    border: 40pz 80px 50px 101px;
+    padding: 20px;
+    margin: 10px;
+    width: 100px;
+    height: 250px;
+
+}
+#rony{
+    color:chartreuse;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 20px;
+}
+*akash{
+    font-size: 15px;
+    font-style: inherit;
+    
+}
